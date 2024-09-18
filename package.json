@@ -1,0 +1,22 @@
+{
+  "name": "app-to-test2",
+  "version": "1.0.0",
+  "description": "\"test2\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmedSherif2002/test_h2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhmedSherif2002/test_h2/issues"
+  },
+  "homepage": "https://github.com/AhmedSherif2002/test_h2#readme",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
